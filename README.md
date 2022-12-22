@@ -2,7 +2,7 @@
 Quantumult X Scripts
 
 
-Telegram author:@zxinternet
 
+Telegram author : @zxinternet
 
-Website:https://t.me/zxinternet
+Website : https://t.me/zxinternet
